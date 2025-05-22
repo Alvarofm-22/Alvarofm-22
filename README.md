@@ -103,8 +103,8 @@ Mi objetivo es integrarme a un equipo profesional donde pueda aportar soluciones
 📱 **Celular:** +51 991 022 033  
 📧 **Email:** alvarofm1507@gmail.com  
 🏡 **Dirección:** Jr. Unión – Lurín, Lima  
-🔗 [LinkedIn](https://www.linkedin.com/in/alvaro)  
-💻 [GitHub](https://github.com/Alvaro5-fm)  
+🔗 [LinkedIn](https://www.linkedin.com/in/alvaro-flores-more-420b0833b/)  
+💻 [GitHub](https://github.com/Alvarofm-22)  
 🌐 [Página Web](https://alvarofloresmore.netlify.app/)
 
 ---
